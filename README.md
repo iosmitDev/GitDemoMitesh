@@ -1,5 +1,5 @@
 # GitDemoMitesh
 First Git Repository
 <br>
-Author - Mitesh patel
+Author - Mitesh
 
